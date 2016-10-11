@@ -6,7 +6,7 @@ import sys
 import urllib
 
 # TODO: Add a way to change folder mid scan, or save to multiple folders.
-
+# TODO: Add interactive mode.
 
 # Used to make the directory
 def makeFolder(path):
